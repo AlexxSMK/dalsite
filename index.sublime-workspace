@@ -1,0 +1,355 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"t",
+				"transition\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"r",
+				"rgba()\tborder-color"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"cou",
+				"counter-increment\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"aic",
+				"animation-iteration-count\tproperty"
+			],
+			[
+				"ad",
+				"animation-delay\tproperty"
+			],
+			[
+				"animation",
+				"animation-name\tproperty"
+			],
+			[
+				"h",
+				"hidden\toverflow"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"f",
+				"frame"
+			],
+			[
+				"w",
+				"wrapper"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 199.0,
+		"history":
+		[
+			"git satus",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/wp-content/themes/test/index.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/test/styles.css",
+		"/Users/alexxx/Downloads/Курс по WordPress от Дмитрия Лаврика (2017)/Урок 2/начальная вёрстка без исправлений/index.html",
+		"/Users/alexxx/Downloads/Курс по WordPress от Дмитрия Лаврика (2017)/Урок 2/начальная вёрстка без исправлений/css/styles.css",
+		"/Applications/MAMP/htdocs/wp-content/themes/twentyseventeen/style.css",
+		"/Users/alexxx/Documents/wordpress/wp-content/themes/test/style.css",
+		"/Users/alexxx/Documents/wordpress/wp-content/themes/twentyseventeen/style.css",
+		"/Users/alexxx/Documents/wordpress/wp-content/themes/twentyseventeen/footer.php",
+		"/Users/alexxx/Documents/wordpress/wp-content/themes/test/index.php",
+		"/Applications/MAMP/htdocs/wp-content/themes/Fusion/style.css",
+		"/Applications/MAMP/htdocs/wp-content/languages/continents-cities-ru_RU.po",
+		"/Users/alexxx/Programming/exx/exx/hello.txt",
+		"/Users/alexxx/Programming/exx/exx/index.html",
+		"/Users/alexxx/Programming/exx/exx/cherry.txt",
+		"/Users/alexxx/Programming/exx/exx/index.jade",
+		"/Users/alexxx/Programming/exx/exx/.gitignore",
+		"/Users/alexxx/Programming/exx/.gitignore",
+		"/Users/alexxx/Programming/ex/.gitignore..git",
+		"/Users/alexxx/Programming/sec/owner/.gitignori",
+		"/Users/alexxx/Programming/owner/config.codekit",
+		"/Users/alexxx/Programming/secondProject/style.scss",
+		"/Users/alexxx/Programming/secondProject/index.html",
+		"/Users/alexxx/Programming/secondProject/.git:info:exclude",
+		"/Users/alexxx/Programming/secondProject/index.jade",
+		"/Users/alexxx/Programming/secondProject/config.codekit",
+		"/Users/alexxx/Programming/secondRepo/index.html",
+		"/Users/alexxx/Programming/secondRepo/index.jade",
+		"/Applications/MAMP/htdocs/new-hope/content/news.html",
+		"/Applications/MAMP/htdocs/new-hope/style.css",
+		"/Applications/MAMP/htdocs/new-hope/content/certificat.jade",
+		"/Applications/MAMP/htdocs/new-hope/index.html",
+		"/Applications/MAMP/htdocs/new-hope/content/certificat.html",
+		"/Users/alexxx/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/Users/alexxx/Library/Application Support/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/Users/alexxx/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/alexxx/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/alexxx/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/alexxx/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/alexxx/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/alexxx/Downloads/Nivo-Slider-jQuery-master/Настройка плагина",
+		"/Users/alexxx/Downloads/Nivo-Slider-jQuery-master/demo/demo.html",
+		"/Users/alexxx/Programming/HTML и CSS. Уровень 2/html2/mod8/index.html",
+		"/Users/alexxx/Documents/switch_off_js_for_mobile/mobile.js",
+		"/Applications/MAMP/htdocs/new-hope/example1/index.html",
+		"/Applications/MAMP/htdocs/new-hope/example1/colorbox.css",
+		"/Users/alexxx/Downloads/colorbox-master_от Джек Мур/example1/index.html",
+		"/Applications/MAMP/htdocs/new-hope/forms.css",
+		"/Users/alexxx/Downloads/colorbox-master_от Джек Мур/example1/colorbox.css",
+		"/Users/alexxx/Downloads/colorbox-master_от Джек Мур/example5/index.html",
+		"/Applications/MAMP/htdocs/new-hope/content/forms.html",
+		"/Applications/MAMP/htdocs/new-hope/motnia/motnia-style.css",
+		"/Users/alexxx/Desktop/1270312378_1236809871_1-16.jpg",
+		"/Applications/MAMP/htdocs/new-hope/table.css",
+		"/Applications/MAMP/htdocs/new-hope/courses/js.html",
+		"/Applications/MAMP/htdocs/new-hope/motnia/script.js",
+		"/Applications/MAMP/htdocs/new-hope/motnia/index.html",
+		"/Applications/MAMP/htdocs/new-hope/motnia/newyear.js",
+		"/Applications/MAMP/htdocs/new-hope/motnia/ny2012.swf",
+		"/Applications/MAMP/htdocs/new-hope/content/distance.html",
+		"/Applications/MAMP/htdocs/new-hope/content/events.html",
+		"/Applications/MAMP/htdocs/new-hope/content/test.html",
+		"/Applications/MAMP/htdocs/new-hope/courses/php.html",
+		"/Applications/MAMP/htdocs/new-hope/courses/web.html",
+		"/Users/alexxx/Desktop/index.html",
+		"/Users/alexxx/Library/Application Support/Sublime Text 3/Packages/Clickable URLs/Default (OSX).sublime-keymap",
+		"/Users/alexxx/Library/Application Support/Sublime Text 3/Packages/User/ClickableUrls.sublime-settings",
+		"/Users/alexxx/Library/Application Support/Sublime Text 3/Packages/User/Default.sublime-mousemap",
+		"/Users/alexxx/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/alexxx/Library/Application Support/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/Users/alexxx/Library/Application Support/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/Users/alexxx/Library/Application Support/Sublime Text 3/Packages/Simple Print Function/README.md",
+		"/Users/alexxx/Library/Application Support/Sublime Text 3/Packages/User/SublimePrint.sublime-settings",
+		"/Users/alexxx/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 200.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 113.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

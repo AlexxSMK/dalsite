@@ -1,0 +1,2 @@
+.mobile-nav{display:none;height:50px;width:100%;background-color:black}@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2){.mobile-nav{display:block;height:150px;position:absolute;z-index:44;background-color:RGBA(0, 0, 0, 0.8)}}@media only screen and (max-width: 480px){.mobile-nav{display:block;height:65px;position:absolute;z-index:44;background-color:RGBA(0, 0, 0, 0.8)}}
+/*# sourceMappingURL=index.css.map */
